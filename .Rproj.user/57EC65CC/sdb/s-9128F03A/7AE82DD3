@@ -1,0 +1,16 @@
+{
+    "contents" : "### Welcome to storm database explorer\n\nThis application is based on the U.S. National Oceanic and Atmospheric Administration's (NOAA) storm database.\n\nDataset has been obtained from [the Coursera Reproducible Research Course site](https://d396qusza40orc.cloudfront.net/repdata%2Fdata%2FStormData.csv.bz2) and processed as a part of peer assignment for the course. Full description of the processing workflow is available on [RPubs](http://rpubs.com/zero323/18294).\n\nSource code is available on the [GitHub](https://github.com/zero323/developing-data-products-shiny).\n\nYou can adjust date range and event types using control panel located on the left side. Filtered dataset can be downloaded using data tab.\n",
+    "created" : 1434722958968.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3578466310",
+    "id" : "7AE82DD3",
+    "lastKnownWriteTime" : 1434555726,
+    "path" : "D:/developing-data-products-shiny-master/developing-data-products-shiny-master/data_product/include.md",
+    "project_path" : "include.md",
+    "properties" : {
+    },
+    "source_on_save" : false,
+    "type" : "markdown"
+}
